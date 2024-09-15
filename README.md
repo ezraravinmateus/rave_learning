@@ -17,8 +17,11 @@
 - [ ] []()
 - [ ] []()
 
+## Supabase
+
+- [x] [SvelteRust - User Auth to SvelteKit with Supabase](https://youtu.be/fHMmdL9_cA4?si=aiedVJ2GhlcIqN4x)
+- [ ] []()
+
 ## Svelte
 
-- [ ] [SvelteKit with Supabase Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9hjkchG2akxmjP0Bw2fyWgO&si=L4wGyGeFX3LbA6Gb)
-- [ ] []()
-- [ ] []()
+- [x] [SvelteRust - Svelte 4 vs Svelte 5 (Runes & Snippets)](https://youtu.be/X37exLLQHwg?si=SVkZPIzWXKrExOfb)
